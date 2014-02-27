@@ -1,4 +1,4 @@
-# Rake Runner
+# Bundler Runner
 #
 # VERSION       0.0.1
 

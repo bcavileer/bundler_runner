@@ -1,4 +1,4 @@
-rake_runner
+bundler_runner
 ===========
 
-It runs rake
+It bundles and runs!
